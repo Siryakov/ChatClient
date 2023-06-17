@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5_WInForm", "Lab5_WInForm\Lab5_WInForm.csproj", "{B51D2610-A014-43ED-B94F-FD104D1B137B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51D2610-A014-43ED-B94F-FD104D1B137B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51D2610-A014-43ED-B94F-FD104D1B137B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51D2610-A014-43ED-B94F-FD104D1B137B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51D2610-A014-43ED-B94F-FD104D1B137B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACC717ED-ABDB-47A7-990E-7FF665067DCF}
+	EndGlobalSection
+EndGlobal
